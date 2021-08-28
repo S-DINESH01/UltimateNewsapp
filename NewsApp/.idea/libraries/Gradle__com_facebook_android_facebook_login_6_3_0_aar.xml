@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.android:facebook-login:6.3.0@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../goshareitfile/caches/transforms-2/files-2.1/3afe32c93cdcb6bfc0dfabf1ced3aa1d/jetified-facebook-login-6.3.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../../goshareitfile/caches/transforms-2/files-2.1/3afe32c93cdcb6bfc0dfabf1ced3aa1d/jetified-facebook-login-6.3.0/res" />
+      <root url="jar://$PROJECT_DIR$/../../../../goshareitfile/caches/transforms-2/files-2.1/3afe32c93cdcb6bfc0dfabf1ced3aa1d/jetified-facebook-login-6.3.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../../goshareitfile/caches/modules-2/files-2.1/com.facebook.android/facebook-login/6.3.0/5fd5545dca12e48908f24161c4281a25a23ad156/facebook-login-6.3.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../goshareitfile/caches/modules-2/files-2.1/com.facebook.android/facebook-login/6.3.0/d52855cb15b13f46d25a6b88db7c7c0c7c1f45d5/facebook-login-6.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

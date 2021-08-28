@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.android:facebook-common:6.3.0@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../goshareitfile/caches/transforms-2/files-2.1/fffb6b57d255b877ef5a1443c864d428/jetified-facebook-common-6.3.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../goshareitfile/caches/transforms-2/files-2.1/fffb6b57d255b877ef5a1443c864d428/jetified-facebook-common-6.3.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../goshareitfile/caches/transforms-2/files-2.1/fffb6b57d255b877ef5a1443c864d428/jetified-facebook-common-6.3.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../../goshareitfile/caches/modules-2/files-2.1/com.facebook.android/facebook-common/6.3.0/46ef5691e4f868f0c59a3a34398b80988f3c2eec/facebook-common-6.3.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../goshareitfile/caches/modules-2/files-2.1/com.facebook.android/facebook-common/6.3.0/48fed6df13e54d296021e2ab25567f31e1b953d6/facebook-common-6.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
